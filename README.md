@@ -1,2 +1,0 @@
-# gesutech
-Gesu Tech
